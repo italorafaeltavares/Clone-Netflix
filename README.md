@@ -13,7 +13,7 @@ a urls necessárias no arquivo ./public/js/api.js. Com isso você irá conseguir
 #
 Tecnologias utilizadas </br >
 
-> HTML | CSS | JavaScript | React 
+> HTML | CSS | JavaScript | Node.js
 <div style="display: inline_block">
   &emsp; <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &#160;
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &#160;
